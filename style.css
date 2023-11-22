@@ -1,0 +1,80 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(imagem/pexels-brett-sayles-19051966.jpg);
+    background-size: 200%;
+    margin: 1px;
+    padding: 1px;
+    text-align: center;
+    overflow-x: hidden ;
+}
+img{
+    margin: 10px;
+}
+h1{
+    scale: 2;
+    padding: 30;   
+}
+    
+
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1500px;
+    margin: auto;
+    padding: 0 2%;
+}
+
+header{
+    padding: 20px 0;
+}
+
+.Logo{
+    height: 50%;
+}
+
+.menu{
+    padding-top: 60px;
+    width: 1300px;
+    text-align: right;
+}
+
+.menu a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+    font-size: larger;
+}
+
+h5{
+    scale: 5;
+    padding: 10;
+    margin: 80;
+}
+h3{
+    scale: 2;
+    padding: 30;
+}
+
+h4{
+    scale: 2;
+    padding: 30;
+}
+
+.medium{
+    padding: 50;
+}
+
+p{
+    font-size: large;
+    margin: 10;
+}
+
+h6{
+    scale: 6;
+    padding: 30;
+}
+
+ .contatos{
+    padding: 20;
+ }
